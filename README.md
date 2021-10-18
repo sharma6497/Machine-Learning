@@ -1,2 +1,2 @@
 # Work-Samples
-This Repository consist of Data Science Projects
+This Repository consist of Machine Learning Projects
